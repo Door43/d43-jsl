@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jsl:home|Door43 (jsl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jsl|d43-jsl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jsl/archive/master.zip|d43-jsl.zip]]
+
+**Recent Changes**
+{{changes>ns = jsl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jsl|Ethnologue data]]
+
